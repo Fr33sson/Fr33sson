@@ -1,7 +1,6 @@
 [![Freesson-Logo-Round.png](https://i.postimg.cc/Xqjc9skX/Freesson-Logo-Round.png "Freesson Logo")](https://postimg.cc/bD5thHMj)  
-Freesson Validate Networks:  
-#  
-  
+## Freesson Validate Networks:
+   
 **Test-nets:**  
 1. ***[Minima](https://minima.global/ "Minima")***  
 2. ***[Nym Network](https://testnet-milhon-explorer.nymtech.net/nym/mixnodes/3xKqpe2UqBiKrAhXnNW9UTgzGNKvYoogJbma5JMGp46B "Freesson mix-node")***  
