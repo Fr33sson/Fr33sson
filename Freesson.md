@@ -1,3 +1,4 @@
+## Decentralize Now 🧬⚙️🌠
 [![Freesson-Logo-Round.png](https://i.postimg.cc/Xqjc9skX/Freesson-Logo-Round.png "Freesson Logo")](https://postimg.cc/bD5thHMj)  
 ## Freesson Validate Networks:
    
