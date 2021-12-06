@@ -9,6 +9,7 @@
 4. ***[Porta Network](https://console.porta.network/#/staking/query/5FLZdpj8voM54W59uK4i9EVTgwffFsad521TFvCtfiRKqXRR "Freesson")*** - Validator  
 5. ***[GAME](https://neuron.game-explorer.io/validators/gamevaloper1u3wxrlcga09gqhr72vtnlgj2sn9zan7t4splcv "Freesson")*** - Validator  
 6. ***[EVMOS](https://evmos.dev/ "Evmos Documentation")*** - Validator
+7. ***[Taraxa](https://community.taraxa.io/node "Taraxa Community Site")*** - Node  
 
 **Ended Test-nets:**  
 1. ***[KiChain](https://ki.thecodes.dev/validator/tkivaloper19au92d9gv0wclccayheyym98peagrwys65f8x3 "Freesson")*** - Validator
