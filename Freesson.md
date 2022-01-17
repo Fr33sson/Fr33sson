@@ -14,12 +14,15 @@
 9. ***[Ironfish](https://ironfish.network/ "Ironfish Official Site")*** - Node
 
 **Ended Test-nets:**  
-1. ***[KiChain](https://ki.thecodes.dev/validator/tkivaloper19au92d9gv0wclccayheyym98peagrwys65f8x3 "Freesson")*** - Validator
+1. ***[KiChain](https://ki.thecodes.dev/validator/tkivaloper19au92d9gv0wclccayheyym98peagrwys65f8x3 "Freesson")*** - Validator  
+
+## My other contributions  
+Minima >>> I am the moderator of the official telegram and discord chats. I help beginners install nodes, answer questions about the project. I translate and inform the RU community of up-to-date information from developers.
 #   
     
  **Contacts:**  
  * ***[Telegram](https://t.me/Freesson "@Freesson")***  
  * ***[GitHub](https://github.com/Fr33sson "@Fr33sson")***  
  * ***[Twitter](https://twitter.com/AlexFreesson "@AlexFreesson")***  
- * ***[Website](https://freesson.network/ "Freesson Validator")****  
+ * ***[Website](https://freesson.network/ "Freesson Validator")***  
  
