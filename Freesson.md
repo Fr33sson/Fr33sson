@@ -4,7 +4,7 @@
    
 **Active Test-nets:**  
 1. ***[Minima](https://minima.global/ "Minima Official Site")*** - Node  
-2. ***[Subspace](https://subspace.network/ "Subspace Official Site)*** - Node  
+2. ***[Subspace](https://subspace.network/ "Subspace Official Site")*** - Node  
 3. ***[Meson Network](https://meson.network/ "Meson")*** - Node    
 4. ***[Massa Network](https://massa.net/ "Massa Official Site")*** - Node  
 
