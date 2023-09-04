@@ -1,5 +1,6 @@
 ## Decentralize Now 🧬⚙️🌠
 [![Freesson-Logo-Round.png](https://i.postimg.cc/Xqjc9skX/Freesson-Logo-Round.png "Freesson Logo")](https://postimg.cc/bD5thHMj)  
+<h3 align="center">Member of <a href="https://cryptomolotstake.com//" target="_blank">cryptomolot stake🖥</a>  
 ## Freesson Validate Networks:
    
 **Active Test-nets:**  
